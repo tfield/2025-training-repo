@@ -10,8 +10,8 @@
 		<title>${contentModel.title_t}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="/static-assets/theme/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="/static-assets/theme/assets/css/noscript.css" /></noscript>
 		<@crafter.head/>
 	</head>
 	<body class="is-preload">
@@ -59,7 +59,7 @@
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="/static-assets/theme/images/pic01.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Magna arcu feugiat</h2>
 										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
@@ -71,7 +71,7 @@
 						<!-- Two -->
 							<section id="two" class="wrapper alt spotlight style2">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="/static-assets/theme/images/pic02.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Tempus adipiscing</h2>
 										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
@@ -83,7 +83,7 @@
 						<!-- Three -->
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="/static-assets/theme/images/pic03.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Nullam dignissim</h2>
 										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
@@ -99,25 +99,25 @@
 									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 									<section class="features">
 										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="/static-assets/theme/images/pic04.jpg" alt="" /></a>
 											<h3 class="major">Sed feugiat lorem</h3>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
 											<a href="#" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="/static-assets/theme/images/pic05.jpg" alt="" /></a>
 											<h3 class="major">Nisl placerat</h3>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
 											<a href="#" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="/static-assets/theme/images/pic06.jpg" alt="" /></a>
 											<h3 class="major">Ante fermentum</h3>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
 											<a href="#" class="special">Learn more</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="/static-assets/theme/images/pic07.jpg" alt="" /></a>
 											<h3 class="major">Fusce consequat</h3>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
 											<a href="#" class="special">Learn more</a>
@@ -176,12 +176,12 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="/static-assets/theme/assets/js/jquery.min.js"></script>
+			<script src="/static-assets/theme/assets/js/jquery.scrollex.min.js"></script>
+			<script src="/static-assets/theme/assets/js/browser.min.js"></script>
+			<script src="/static-assets/theme/assets/js/breakpoints.min.js"></script>
+			<script src="/static-assets/theme/assets/js/util.js"></script>
+			<script src="/static-assets/theme/assets/js/main.js"></script>
 		<@crafter.body_bottom/>
 
 	</body>
