@@ -6,11 +6,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>1307</objectGroupId>
 	<objectId>13072b04-0500-29c5-6f8e-f124279faae6</objectId>
-	<internal-name>ALL’S WELL THAT ENDS WELL</internal-name>
-	<title_t tokenized="true">ALL’S WELL THAT ENDS WELL</title_t>
+	<internal-name>All's Well that Ends Well</internal-name>
+	<title_t tokenized="true">All's Well that Ends Well</title_t>
 	<callToActionText_t tokenized="true">Read More</callToActionText_t>
 	<callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap02</callToActionHref_s>
-	<callToAction3_s/>
 	<file-name>13072b04-0500-29c5-6f8e-f124279faae6.xml</file-name>
 	<folder-name/>
 	<snippet_t>COUNTESS.
@@ -19,6 +18,6 @@ BERTRAM.</snippet_t>
 	<image_s>/static-assets/content/images/landscapes/33610845122_72fc7053cf_b.jpg</image_s>
 	<createdDate>2025-01-09T13:42:19.502Z</createdDate>
 	<createdDate_dt>2025-01-09T13:42:19.502Z</createdDate_dt>
-	<lastModifiedDate>2025-01-09T13:42:19.502Z</lastModifiedDate>
-	<lastModifiedDate_dt>2025-01-09T13:42:19.502Z</lastModifiedDate_dt>
+	<lastModifiedDate>2025-01-09T13:48:03.813Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-09T13:48:03.813Z</lastModifiedDate_dt>
 </component>
