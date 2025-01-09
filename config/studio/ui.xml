@@ -41,11 +41,27 @@
 					</configuration>
 				</widget>
 				<widget id="craftercms.components.PathNavigatorTree">
+					<permittedRoles>
+						<role>admin</role>
+						<role>developer</role>
+					</permittedRoles>
 					<configuration>
 						<id>Components</id>
 						<label>Components</label>
 						<icon id="craftercms.icons.Component"/>
 						<rootPath>/site/components</rootPath>
+						<locale>en</locale>
+					</configuration>
+				</widget>
+				<widget id="craftercms.components.PathNavigatorTree">
+					<permittedRoles>
+						<role>author</role>
+					</permittedRoles>
+					<configuration>
+						<id>Content</id>
+						<label>Content</label>
+						<icon id="craftercms.icons.Component"/>
+						<rootPath>/site/components/content</rootPath>
 						<locale>en</locale>
 					</configuration>
 				</widget>
