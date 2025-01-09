@@ -8,8 +8,8 @@
 	<objectId>a268d62f-d82a-3612-67ef-ec89409e3b7a</objectId>
 	<file-name>a268d62f-d82a-3612-67ef-ec89409e3b7a.xml</file-name>
 	<folder-name/>
-	<internal-name>THE TRAGEDY OF ANTONY AND CLEOPATRA</internal-name>
-	<title_t tokenized="true">THE TRAGEDY OF ANTONY AND CLEOPATRA</title_t>
+	<internal-name>The Tragedy of Antony and Cleopatra</internal-name>
+	<title_t tokenized="true">The Tragedy of Antony and Cleopatra</title_t>
 	<callToActionText_t tokenized="true">Read More</callToActionText_t>
 	<callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap03</callToActionHref_s>
 	<snippet_t>PHILO.
@@ -22,6 +22,6 @@ Upon a tawny front. </snippet_t>
 	<image_s>/static-assets/content/images/landscapes/3926128724_7430e9cdf1_b.jpg</image_s>
 	<createdDate>2025-01-09T13:43:40.141Z</createdDate>
 	<createdDate_dt>2025-01-09T13:43:40.141Z</createdDate_dt>
-	<lastModifiedDate>2025-01-09T13:43:40.141Z</lastModifiedDate>
-	<lastModifiedDate_dt>2025-01-09T13:43:40.141Z</lastModifiedDate_dt>
+	<lastModifiedDate>2025-01-09T13:48:17.054Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-09T13:48:17.054Z</lastModifiedDate_dt>
 </component>
