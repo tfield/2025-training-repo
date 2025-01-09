@@ -67,6 +67,19 @@
 				</widget>
 				<widget id="craftercms.components.PathNavigatorTree">
 					<configuration>
+						<id>Uploads</id>
+						<label>Uploads</label>
+						<icon id="@mui/icons-material/ImageOutlined"/>
+						<rootPath>/static-assets/content</rootPath>
+						<locale>en</locale>
+					</configuration>
+				</widget>
+				<widget id="craftercms.components.PathNavigatorTree">
+					<permittedRoles>
+						<role>admin</role>
+						<role>developer</role>
+					</permittedRoles>
+					<configuration>
 						<id>StaticAssets</id>
 						<label>Static Assets</label>
 						<icon id="@mui/icons-material/ImageOutlined"/>
